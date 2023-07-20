@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: ba5ff1575726c044cbdafe7d535e7a29
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GELO_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1414
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24590066be8f87442b5eebdb7572b8d7
+      internalID: -1463445932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1414
+        width: 150
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593c32833aa987446a0cc521a1ca2536
+      internalID: -457183578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1414
+        width: 170
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85843596c7bd8f34084ac2c037bb6234
+      internalID: 1033539415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1414
+        width: 143
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c6f36333829cf4e83467d201ba2baf
+      internalID: -1060806057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1414
+        width: 150
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8697d2fefd96e9445b0bb3e169d2b2a3
+      internalID: 487777168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1414
+        width: 191
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7e4127025fe0c45b4fd89835e1395c
+      internalID: 1060061997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1411
+        width: 143
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4c17d263ff55e4e911c8981a32bae9
+      internalID: 279222349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_7
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1411
+        width: 286
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0991a49fc09704caae15205c1a526d
+      internalID: -1307269685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1233
+        width: 1024
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835f09b1b8b389b4a8ecf49304c49dde
+      internalID: 1468740825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_9
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1088
+        width: 281
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50e5dc128cbe804084ca00e08e308ad
+      internalID: -1431256482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_10
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1088
+        width: 216
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de0d7672851d974391936fb55dae3e4
+      internalID: 429497857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1088
+        width: 216
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c2af2297b054a449899c80fd2b2b52
+      internalID: -34372693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 211
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110016709cd01c0409612d73e48b1533
+      internalID: -1928833718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 211
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46bc10bfec6bb448b690e9800346adc
+      internalID: 690581603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_14
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 960
+        width: 173
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d086a4be7eb046b66b70d47e7807a
+      internalID: -1962619076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_15
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1088
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbae8974e86b1a742971d73edfec5e43
+      internalID: -1898883938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7329ac80aef884293400ff375e03d2
+      internalID: 1771569739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1026
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aeb3449af7b8d449a894ec859ee165
+      internalID: 1314818317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1024
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d7322b3ae8f8740966ece6ebf7cdd8
+      internalID: 222500683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3033393618063bf44905672984220a0f
+      internalID: -617877382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 122
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc971889715c36438822973ae594e6f
+      internalID: -663918587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_21
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 999
+        width: 216
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729243edd75f5204c8bf1924c2ef361d
+      internalID: -781982474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_22
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 921
+        width: 294
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fcbfed99066f84b9ad70019d3cac88
+      internalID: -268851948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_23
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 846
+        width: 305
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c230e903cb1db4aa9f716f1c915d8f
+      internalID: 1907707394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 1536
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca53bc597fb6654449751b72ef3e7b36
+      internalID: -1479382687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GELO_31
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 91
+        width: 1025
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701692a4f04cea641b6507193c70e360
+      internalID: -512873038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GELO_81: 1456771481
+      GELO_47: 1750397039
+      GELO_10: 429497857
+      GELO_57: 24984743
+      GELO_7: -1307269685
+      GELO_30: 674862783
+      GELO_82: -1843956981
+      GELO_58: -1535085831
+      GELO_5: 1060061997
+      GELO_46: -310578714
+      GELO_32: 891588896
+      GELO_41: 2057524575
+      GELO_61: 895032170
+      GELO_35: -78474900
+      GELO_74: -1250008567
+      GELO_23: 1907707394
+      GELO_4: 487777168
+      GELO_52: 18026988
+      GELO_56: -1645915684
+      GELO_13: 690581603
+      GELO_62: -694955671
+      GELO_68: 1301477836
+      GELO_9: -1431256482
+      GELO_2: 1033539415
+      GELO_8: 1468740825
+      GELO_19: -617877382
+      GELO_36: 159292360
+      GELO_50: -1723668533
+      GELO_34: 1681784468
+      GELO_66: -612569462
+      GELO_63: 399253350
+      GELO_16: 1771569739
+      GELO_39: -349289950
+      GELO_72: 1334828099
+      GELO_11: -34372693
+      GELO_77: -698202604
+      GELO_38: -869847050
+      GELO_60: 241544001
+      GELO_43: -527657901
+      GELO_64: -1993829795
+      GELO_3: -1060806057
+      GELO_79: 1837850026
+      GELO_67: -861713009
+      GELO_28: -1311491664
+      GELO_24: -1479382687
+      GELO_15: -1898883938
+      GELO_17: 1314818317
+      GELO_48: 1954886740
+      GELO_6: 279222349
+      GELO_20: -663918587
+      GELO_14: -1962619076
+      GELO_29: 1662191541
+      GELO_27: 1187870350
+      GELO_26: -1112434028
+      GELO_12: -1928833718
+      GELO_71: -1302177036
+      GELO_37: -1375038514
+      GELO_42: 785085166
+      GELO_55: 1240166327
+      GELO_21: -781982474
+      GELO_59: 411388975
+      GELO_25: -1027794280
+      GELO_73: -1636133213
+      GELO_51: 866244708
+      GELO_75: 1448116816
+      GELO_54: 1824512401
+      GELO_44: -1831848162
+      GELO_70: 2147189320
+      GELO_0: -1463445932
+      GELO_40: 413354040
+      GELO_31: -512873038
+      GELO_45: -1099065943
+      GELO_65: 333868367
+      GELO_78: -1738617120
+      GELO_18: 222500683
+      GELO_53: 565648661
+      GELO_33: 1277329681
+      GELO_69: 1988348706
+      GELO_76: 944181991
+      GELO_22: -268851948
+      GELO_1: -457183578
+      GELO_80: 570246814
+      GELO_49: 1155146636
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: tiled2unity
+  assetBundleName: 
+  assetBundleVariant: 
